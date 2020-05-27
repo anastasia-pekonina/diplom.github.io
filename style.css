@@ -1,0 +1,505 @@
+body{
+margin: 0;
+}
+/*Начало головы страницы*/
+.header{
+   background: url(./img/screen_bg.png) no-repeat;
+   background-size: cover;
+   height: 100vh;
+
+}
+
+.title{
+    font-family: 'Exo Thin', arial;
+    color: black;
+    text-align: center;
+    padding: 218px 0 0 0;
+}
+.text{
+    font-family: Exo;
+    color: #282828;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    padding-top:17px;
+}
+.photo-video{
+    display: block;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.main-btn{
+    display: block;
+    margin: 0 auto;
+    margin-top: 37px;
+   background-color: #ff6d6d;
+   color: white;
+   text-transform: uppercase;
+   font-size: 16px;
+   font-weight: 400;
+   border-radius: 3px;
+   width: 186px;
+   height: 50px;
+   border: 0px;
+}
+ 
+
+/*Конец головы страницы*/
+
+
+
+
+/* первая секция начало*/
+.pretitle{
+    font-family: 'Lato', sans-serif;
+    color: #ff6d6d;
+    text-transform: uppercase;
+    padding-top: 185px;
+  
+  }
+  .firsttitle{
+    font-family: 'Lato', sans-serif;
+    padding-top: 2px;
+  }
+  .content{
+    width: 558px;
+    height: 191px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    padding-top: 52px;
+  }
+  .screen{
+    display: block;
+    padding-left: 146px;
+    height: 100vh;
+  
+  }
+  .points{
+    color: #ff6d6d;
+  }
+  
+  /*Первая секция конец*/
+  
+  
+  
+  
+  /*Вторая секция начало*/
+  .features{
+    background: url(./img/section2.png) no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+  .new{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    height: 11px;
+    color: #ff6d6d;
+    text-align: center;
+    padding-top: 134px;
+  }
+  .awesome1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding-top: 18px;
+    font-size: 39px;
+    font-weight: 400;
+  }
+  .photo_cards{
+    padding-top: 91px; 
+    display: block;
+    margin: 0 auto;
+  }
+  .photo_airplane{
+    padding-top: 91px;
+    display: block;
+    margin: 0 auto;
+  }
+  .photo_bulb{
+    padding-top: 91px;
+    display: block;
+    margin: 0 auto;
+  }
+  .airplane{
+  padding-top: 30px;
+  text-align: center;
+  }
+  .cards{
+  padding-top: 30px;
+  text-align: center;
+  }
+  .bulb{
+  padding-top: 30px;
+  text-align: center;
+  }
+  .text-cards{
+  padding-top: 10px ;
+  text-align: center;
+  }
+  .text-airplane{
+  padding-top: 10px;
+  text-align: center;
+  }
+  .text-bulb{
+  padding-top: 10px;
+  text-align: center;
+  }
+  
+  /*Вторая секция конец*/
+  
+  
+  /*Третья секция начало*/
+  .macbook{
+    padding-bottom: 87px;
+  margin-top: 100px;
+    
+  }
+  .title2{
+    color: #ff6d6d;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 70px;
+    padding-top: 137px ;
+  }
+  .resposive{
+    font-family: Lato;
+    color: #282828;
+    font-size: 39px;
+    font-weight: 400;
+    margin-left: 70px;
+    padding-top: 1px;
+  }
+  .content2{
+    color: #282828;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 70px;
+    padding-top: 42px;
+    padding-bottom: 120px;
+  }
+  .section2{
+    background: url(./img/Slice_1.png) no-repeat;
+    margin-bottom: -22px;
+  }
+  /*третья секция конец*/
+  
+  
+  
+  /*Четвертая секция начало*/
+  .awesome{
+    background: url(./img/Group_4.png) no-repeat;
+    background-size: cover;
+  
+    background-color: black;
+  }
+  .black-square1{
+    margin-left: 282px;
+    padding-top: 108px;
+    padding-bottom: 24px;
+    display: block;
+    margin: 0 auto;
+  }
+  .jo1{
+  text-align: center;
+  color: white;
+  }
+  .co1{
+  text-align: center;
+  color: #ff6d6d;
+  }
+  .text-jo1{
+  text-align: center;
+  color: white;
+  }
+  .jo2{
+  text-align: center;
+  color: white;
+  }
+  .co2{
+  text-align: center;
+  color: #ff6d6d;
+  
+  }
+  .text-jo2{
+  text-align: center;
+  color: white;
+  
+  }
+  .jo3{
+  text-align: center;
+  color: white;
+  }
+  .co3{
+  text-align: center;
+  color: #ff6d6d;
+    
+  }
+  .text-jo3{
+  text-align: center;
+  color: white;
+    
+  }
+  .logo1{
+  padding-top: 102px;
+  padding-bottom: 89px;
+  padding-right: 60px;
+  }
+  .logo2{
+  padding-top: 106px;
+  padding-right: 103px;
+  padding-bottom: 89px;
+  }
+  .logo3{
+  padding-top: 92px;
+  padding-right: 60px;
+  padding-bottom: 89px;
+  }
+  .logo4{
+  padding-top: 104px;
+  padding-right: 111px;
+  padding-bottom: 89px;
+  }
+  .logo5{
+  padding-top: 107px;
+  padding-right: 100px;
+  padding-bottom: 89px;
+  }
+  
+  /*четвертая секция конец*/
+  
+  
+  /*Пятая секция начало*/
+  .over{
+    background: url(./img/Rectangle_23.png) no-repeat;
+    background-size: cover;
+   
+  }
+  .section5{
+  text-align: center;
+  color: #ff6d6d;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 100px;
+  }
+  .text-section{
+  text-align: center;
+  font-family: Lato;
+  font-size: 39px;
+  font-weight: 400;
+  padding-top: 10px;
+  }
+  .content-section{
+  text-align: center;
+  font-family: Lato;
+  color: #282828;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 30px;
+  }
+  .photo5{
+  padding-top: 92px;
+  margin: 0;
+  display: block;
+  
+  }
+  .logo{
+    padding-top: 102px;
+    padding-bottom: 89px;
+    display: block;
+    margin: 0 auto;
+  }
+  .form-iput{
+    background-color: #f6f5f3;
+    
+  }
+  
+  /*Пятая секция конец*/
+  
+  
+  
+  
+  
+  /*шестая секция начало*/
+  .email{
+    background: url(./img/Rectangle_25.png) no-repeat;
+    background-size: cover;
+    
+  }
+  .section6{
+  text-align: center;
+  color: #ff6d6d;
+  font-family: Lato;
+  font-size: 16px;
+  padding-top: 95px;
+  }
+  .text-section1{
+  text-align: center;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: 39px;
+  padding-top: 16px;
+  }
+  .main-btn1{
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+   background-color: #ff6d6d;
+   color: white;
+   text-transform: uppercase;
+   font-size: 16px;
+   font-weight: 400;
+   border-radius: 3px;
+   width: 257px;
+   height: 48px;
+   border: 0px;
+margin-right: 100px;
+  }
+  /*.form1{
+    width: 257px;
+    height: 48px;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+    background-color: #f6f5f3;
+    opacity: 0.5;
+   margin-top: 100px;
+   margin-right: 33px;
+  }
+  */
+  .pfujkjdjr{
+    text-align: center;
+    color: #f6f5f3;
+    font-size: 16px;
+    opacity: 0.6;
+    letter-spacing: 0.64px;
+    font-family: Lato;
+    margin-top: 51px;
+    margin-bottom: 83px;
+  }
+  .form-iput1{
+    width: 257px;
+    height: 48px;
+    border-radius: 3px;
+    border: 2px solid #ffffff;
+    background-color: #f6f5f3;
+    opacity: 0.3;
+   margin-top: 100px;
+   padding: 0px 40px 0px 40px;
+   margin-left: 170px;
+   
+  }
+  .form-iput2{
+    width: 257px;
+    height: 48px;
+    border-radius: 3px;
+    border: 2px solid #ffffff;
+    background-color: #f6f5f3;
+    opacity: 0.3;
+   margin-top: 100px;
+   margin-left: 100px;
+  }
+  .form-iput3{
+    width: 257px;
+    height: 48px;
+    border-radius: 3px;
+    border: 2px solid #ffffff;
+    background-color: #f6f5f3;
+    opacity: 0.3;
+   margin-top: 100px;
+  margin-left: 30px;
+  }
+  .ex{
+      display: flex;
+     
+  }
+  .ex1{
+    margin-top: 80px;
+    margin-left: 10px;
+  }
+  
+  /* шестая секция конец*/
+  
+  
+  /*начало футера*/
+
+  .start{
+    padding-top: 91px;
+    font-family: Lato;
+    color: #2c2f49;
+    font-size: 26px;
+    }
+    .text-start{
+      padding-top: 30px;
+    color: #282828;
+    font-family: Lato;
+    font-size: 14px;
+    letter-spacing: 0.56px;
+    opacity: 0.66;
+    }
+    .support{
+    padding-top: 91px;
+    color: #282828;
+    font-family: Lato;
+    font-size: 21px;
+    }
+    .support-text{
+      padding-top: 30px;
+      color: #282828;
+      font-family: Lato;
+      font-size: 14px;
+      letter-spacing: 0.56px;
+      opacity: 0.66;
+    }
+    .us{
+    padding-top: 91px;
+    color: #282828;
+    font-family: Lato;
+    font-size: 21px;
+    }
+    .text-us{
+      padding-top: 30px;
+      color: #282828;
+      font-family: Lato;
+      font-size: 14px;
+      letter-spacing: 0.56px;
+      opacity: 0.66;
+    }
+    .get{
+    padding-top: 91px;
+    color: #282828;
+    font-family: Lato;
+    font-size: 21px;
+    }
+    .get-us{
+      padding-top: 30px;
+      color: #282828;
+      font-family: Lato;
+      font-size: 14px;
+      opacity: 0.66;
+    }
+    /*.form-input{
+      width: 200px;
+      height: 40px;
+      border-radius: 3px;
+      border: 1px solid #4e4e5e;
+      opacity: 0.4;
+    }
+    */
+    .form-control{
+      width: 200px;
+      height: 40px;
+      border-radius: 3px;
+      border: 1px solid #4e4e5e;
+      opacity: 0.4;
+      margin-top: 30px;
+    }
+    .input-group-text{
+      width: 50px;
+      height: 40px;
+      box-shadow: 0 3px 3px rgba(14, 15, 15, 0.25);
+      border-radius: 3px;
+      border: 1px solid #ff6d6d;
+      background-color: #ff6d6d;
+    margin-top: 30px;
+    }
